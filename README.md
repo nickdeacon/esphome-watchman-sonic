@@ -1,6 +1,6 @@
 # esphome-watchman-sonic
 esphome oil tank level sensor for the watchman sonic sensor using a CC1101 rf receiver module with esp32c3
-I have the basic Kingspan watchman sonic sensor, and I wanted a simple way of monitoring the oil level within Home Assistant. This project uses an ESP32C3 supermini with oled display module of the type readily available on aliexpress, along with a CC1101 module also available from aliexpress.
+I have the basic Kingspan watchman sonic sensor, and I wanted a simple way of monitoring the oil level within Home Assistant. This project uses an ESP32C3 supermini with oled display module of the type readily available on aliexpress, along with a CC1101 module also available from aliexpress. It requires esphome to be installed within HA.
 
 ![modules](https://github.com/user-attachments/assets/7d3a3b50-5dce-47b3-904b-8e337b95ad3d)
 
