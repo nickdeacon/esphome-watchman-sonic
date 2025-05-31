@@ -14,6 +14,7 @@ The hardware necessary for this project is simple, an ESP32C3 supermini module, 
 
 Although the esp module has an inbuilt oled display, I haven't yet tried to show the oil level on the display - maybe an addition for the future.
 Connection between the two modules is straight forward:
+
 -----------------
 |ESP32 |  CC1101 |
 |------|---------|
