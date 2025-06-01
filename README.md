@@ -31,8 +31,6 @@ Connection between the two modules is straight forward:
 
  Pin 2 of the esp32 is connected to the MISO signal, and this is used to check the ready status of the CC1101 during spi data transfer.
 
-An example portion of yaml code:
-
 
  The software is located within a directory watchman_sonic and should be installed within the components directory of your esphome directory.
 
